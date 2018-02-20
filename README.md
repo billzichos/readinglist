@@ -7,3 +7,4 @@
 | 3   | [Artemis](http://www.andyweirauthor.com/books/artemis-hc)                                         |                                                                                | Andy Weir           | 2018-01-13 | 2018-02-04 |
 | 4   | [blogdown](https://bookdown.org/yihui/blogdown/)                                                  | Creating Websites with R Markdown                                              | Xie, Thomas, Hill   | 2018-02-04 |            |
 | 5   | [Introduction to Deep Learning Using R](https://github.com/Apress/intro-to-deep-learning-using-r) | A Step-by-Step Guide to Learning and Implementing Deep Learning Models Using R | Taweh Beysolow II   | 2018-02-05 |            |
+| 6   | [The Sixth Extinction](https://www.amazon.com/Sixth-Extinction-Unnatural-History/dp/0805092994)   | An Unnatural History                                                           | Elizabeth Kolbert   | 2018-02-19 |            |
