@@ -8,3 +8,4 @@
 | 4   | [blogdown](https://bookdown.org/yihui/blogdown/)                                                  | Creating Websites with R Markdown                                              | Xie, Thomas, Hill   | 2018-02-04 |            |
 | 5   | [Introduction to Deep Learning Using R](https://github.com/Apress/intro-to-deep-learning-using-r) | A Step-by-Step Guide to Learning and Implementing Deep Learning Models Using R | Taweh Beysolow II   | 2018-02-05 |            |
 | 6   | [The Sixth Extinction](https://www.amazon.com/Sixth-Extinction-Unnatural-History/dp/0805092994)   | An Unnatural History                                                           | Elizabeth Kolbert   | 2018-02-19 |            |
+| 7   | [Interactive Data Visualization for the Web, 2nd Ed.](http://alignedleft.com/work/d3-book-2e)     | An Introduction to Designing with D3                                         | Scott Murray        | 2018-03-01 |            |
