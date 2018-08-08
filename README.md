@@ -11,3 +11,4 @@
 | 7   | [Interactive Data Visualization for the Web, 2nd Ed.](http://alignedleft.com/work/d3-book-2e)     | An Introduction to Designing with D3                                           | Scott Murray        | 2018-03-01 | 2018-04-22 |
 | 8   | [Head First JavaScript Programming](http://wickedlysmart.com/hfjs/)                               | A Brain-Friendly Guide                                                         | Freeman & Robson    | 2018-05-02 |            |
 | 9   | [Designing Products People Love](http://scotthurff.com/dppl/)                                     | How Great Designers Create Successful Products                                 | Scott Hurff         | 2018-07-18 |            |
+| 10  | [The Book of M](http://pengshepherd.com/the-book-of-m/)                                           | A Novel                                                                        | Peng Shepherd       | 2018-08-07 |            |
