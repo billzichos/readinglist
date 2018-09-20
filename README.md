@@ -13,3 +13,4 @@
 | 9   | [Designing Products People Love](http://scotthurff.com/dppl/)                                     | How Great Designers Create Successful Products                                 | Scott Hurff         | 2018-07-18 | 2018-08-14 |
 | 10  | [The Book of M](http://pengshepherd.com/the-book-of-m/)                                           | A Novel                                                                        | Peng Shepherd       | 2018-08-07 | 2019-09-02 |
 | 11  | [Blind Mans Bluff](https://www.amazon.com/Blind-Mans-Bluff-Submarine-Espionage/dp/1891620088)     | The Untold Story of American Submarine Espionage                               | Sontag, Drew        | 2018-09-02 |            |
+| 12  | [Red Sparrow](http://www.simonandschuster.com/books/Red-Sparrow/Jason-Matthews/9781501168918)     | A Novel                                                                        | Jason Matthews      | 2018-09-12 |            |
